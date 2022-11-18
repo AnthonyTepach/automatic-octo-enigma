@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "955102039435",
+    "firebase_url": "https://fmc-database-a8029-default-rtdb.firebaseio.com",
+    "project_id": "fmc-database-a8029",
+    "storage_bucket": "fmc-database-a8029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955102039435:android:355c41f2e91c94a367f38e",
+        "android_client_info": {
+          "package_name": "com.anthonytepach.fmc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955102039435-cfpagajipp9ombrm614jci5n05sc6ojb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDsZKWSvCeJG5xwBUoGx5tvuKbiW-XKzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955102039435-cfpagajipp9ombrm614jci5n05sc6ojb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955102039435-g2vrspvh4n8bri81b0l17our37n5sc8v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrScan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955102039435:android:915f051d26b9cdde67f38e",
+        "android_client_info": {
+          "package_name": "com.example.qr_scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955102039435-cfpagajipp9ombrm614jci5n05sc6ojb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDsZKWSvCeJG5xwBUoGx5tvuKbiW-XKzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955102039435-cfpagajipp9ombrm614jci5n05sc6ojb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955102039435-g2vrspvh4n8bri81b0l17our37n5sc8v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrScan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
